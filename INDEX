@@ -1,0 +1,24 @@
+Overview:
+---------
+iDEMO                   the library `iDEMO': summary information
+
+Functions:
+----------
+idemo.CDF               Cumulative density function of the lifetime
+                        distribution.
+idemo.FIM               Fisher's information matrix of the degradation
+                        model
+idemo.MTTF              Mean of the lifetime distribution
+idemo.PDF               Probability density function of the lifetime
+                        distribution.
+OIM.hessian             Observed information matrix calculated by
+                        Hessian matrix of the degradation model
+OIM.robust              Observed information matrix calculated by
+                        robust matrix of the degradation model
+OIM.score               Observed information matrix calculated by score
+                        vector of the degradation model
+run.gui                 The graphical user interface of integrated degradation model
+
+datasets:
+---------
+laser                   laser data
