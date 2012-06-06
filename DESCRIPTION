@@ -1,6 +1,6 @@
 Package: iDEMO
-Version: 0.2-0
-Date: 2012-04-29
+Version: 0.2-01
+Date: 2012-06-06
 Title: integrated degradation models
 Authors@R: c(person("Ya-Shan", "Cheng", role = c("aut", "cre"),email =
         "acidnoodle@hotmail.com"), person("Chien-Yu", "Peng", role =
@@ -18,5 +18,5 @@ Description: The package iDEMO written in R and R GUI is a tool to
 License: GPL-2
 URL: http://www.r-project.org, http://www.idemo.tw
 Repository: CRAN
-Packaged: 2012-04-29 14:19:38 UTC; LH530
-Date/Publication: 2012-04-29 18:49:47
+Packaged: 2012-06-06 15:35:49 UTC; LH530
+Date/Publication: 2012-06-06 16:43:04

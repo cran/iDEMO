@@ -1,0 +1,53 @@
+citHeader("To cite iDEMO in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Integrated Degradation Models in {R} Using {iDEMO}",
+  author       = personList(as.person("Ya-Shan Cheng"),
+                   as.person("Chien-Yu Peng")),
+  journal      = "Journal of Statistical Software",
+  year         = "2012",
+  volume       = "49",
+  number       = "2",
+  pages        = "1--22",
+  url          = "http://www.jstatsoft.org/v49/i02/",
+
+  textVersion  =
+  paste("Ya-Shan Cheng, Chien-Yu Peng (2012).",
+        "Integrated Degradation Models in R Using iDEMO.",
+        "Journal of Statistical Software, 49(2), 1-22.",
+        "URL http://www.jstatsoft.org/v49/i02/.")
+)
+
+citEntry(entry = "Article",
+  title        = "Mis-specification Analysis of Linear Degradation Models",
+  author       = personList(as.person("Chien-Yu Peng"),
+                   as.person("Sheng-Tsaing Tseng")),
+  journal      = "IEEE Transactions on Reliability",
+  year         = "2009",
+  volume       = "58",
+  number       = "3",
+  pages        = "444--455",
+
+
+  textVersion  =
+  paste("Chien-Yu Peng, Sheng-Tsaing Tseng (2009).",
+        "Mis-specification Analysis of Linear Degradation Models.",
+        "IEEE Transactions on Reliability, 58(3), 444-455.")
+)
+
+citEntry(entry = "Article",
+  title        = "Maximum Likelihood Estimation of the Multivariate Normal Mixture Model",
+  author       = personList(as.person("Otilia Boldea"),
+                   as.person("Jan R. Magnus")),
+  journal      = "Journal of the American Statistical Association",
+  year         = "2009",
+  volume       = "104",
+  number       = "488",
+  pages        = "1539--1549",
+
+
+  textVersion  =
+  paste("Otilia Boldea, Jan R. Magnus (2009).",
+        "Maximum Likelihood Estimation of the Multivariate Normal Mixture Model.",
+        "Journal of the American Statistical Association, 104(488), 1539-1549.")
+)
